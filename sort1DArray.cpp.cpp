@@ -1,5 +1,4 @@
-
- //System Libraries Here
+//System Libraries Here
 #include <iostream>//cout,cin
 #include <cstring> //strlen()
     using namespace std;
