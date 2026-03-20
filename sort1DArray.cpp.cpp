@@ -1,14 +1,11 @@
-//System Libraries Here
+//System Libraries 
 #include <iostream>//cout,cin
 #include <cstring> //strlen()
     using namespace std;
 
-//User Libraries Here
 
-//Global Constants Only, No Global Variables
-//Like PI, e, Gravity, or conversions
 
-//Function Prototypes Here
+//Function Prototypes 
 int  read(char arr[]) {
     cin >> arr;              // read as a string (no spaces)
     return strlen(arr);      // return detected size
@@ -31,9 +28,9 @@ void print(const char arr[], int n) {
     cout << endl;
 }
 
-//Program Execution Begins Here
+//Program Execution Begins 
 int main(int argc, char** argv) {
-    //Declare all Variables Here
+    //Declare all Variables 
     const int SIZE = 80;//Larger than needed
     char array[SIZE]; //Character array larger than needed
     int sizeIn, sizeDet;//Number of characters to be read, check against length
