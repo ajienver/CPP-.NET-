@@ -1,16 +1,6 @@
-/* * File:   main.cpp
- * Author: YOUR NAME HERE
- * Created on DATE AND TIME HERE
- * Purpose:  Find the Max, Min, and Sum of an integer array
- */
 
-//System Libraries Here
 #include <iostream>//cin,cout
 using namespace std;
-
-//User Libraries Here
-
-//Global Constants Only, No Global Variables
 
 //Function Prototypes Here
 void read(int [],int);
