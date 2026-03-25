@@ -1,16 +1,9 @@
-/* * File:   main.cpp
- * Author: YOUR NAME HERE
- * Created on DATE AND TIME HERE
- * Purpose:  Even, Odd Vectors and Array Columns Even, Odd
- */
-
-//System Libraries Here
 #include <iostream>//cin,cout
 #include <vector>  //vectors<>
 #include <iomanip> //Format setw(),right
 using namespace std;
 
-//User Libraries Here
+
 
 //Global Constants Only, No Global Variables
 const int COLMAX=2;
