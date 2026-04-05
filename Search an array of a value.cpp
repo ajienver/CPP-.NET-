@@ -1,18 +1,11 @@
 
-/* * File:   main.cpp
- * Author: YOUR NAME HERE
- * Created on DATE AND TIME HERE
- * Purpose:  Searching for multiple occurrence of patterns
- */
 
 //System Libraries Here
 #include <iostream>//cin,cout,getline()
 #include <cstring> //strlen()
 using namespace std;
 
-//User Libraries Here
 
-//Global Constants Only, No Global Variables
 
 //Function Prototypes
 int  srch1(const char [],const char [],int);
