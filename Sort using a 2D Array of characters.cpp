@@ -1,5 +1,3 @@
-
-
 //System Libraries Here
 #include <iostream>//cin,cout
 #include <cstring> //strlen(),strcmp(),strcpy()
