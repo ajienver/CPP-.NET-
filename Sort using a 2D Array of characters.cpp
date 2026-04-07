@@ -1,15 +1,10 @@
-/* * File:   main.cpp
- * Author: YOUR NAME HERE
- * Created on DATE AND TIME HERE
- * Purpose:  Sorting a 2-D array of characters with modified sort order
- */
+
 
 //System Libraries Here
 #include <iostream>//cin,cout
 #include <cstring> //strlen(),strcmp(),strcpy()
 using namespace std;
 
-//Global Constants Only, No Global Variables
 const int COLMAX=80;
 
 //Function Prototypes Here
